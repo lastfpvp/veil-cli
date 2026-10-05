@@ -1,5 +1,5 @@
 ## about
-**veil** is OSINT tool that checks whether a site is blocked in a country, straight from your terminal, developed by [maher](https://github.com/neroki194).
+**veil** is OSINT tool that checks whether a site is blocked in a country, straight from your terminal, developed by [maher](https://github.com/lastfpvp).
 
 the idea is simple: type a site, get a verdict, see which countries show blocking signal, page through the full picture if you want it.
 
